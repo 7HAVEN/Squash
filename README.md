@@ -1,8 +1,8 @@
 # README
 
-# SQuash theme by 7haven
+# SQuash theme for VSCODE by 7haven
  
-A colorful Vscode theme for color lovers .. 👾👾
+A Orange accented Vscode theme for color lovers .. 👾👾
 
 ## Screen SHOTS
 ![squash1](https://github.com/7HAVEN/Squash/blob/master/squash.png)
