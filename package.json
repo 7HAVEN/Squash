@@ -1,0 +1,22 @@
+{
+    "name": "Squash-theme",
+    "displayName": "Squash",
+    "description": "a cool mashup theme with a little bit of orange assent",
+    "publisher": "7haven",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "haven",
+                "uiTheme": "vs-dark",
+                "path": "./themes/haven-color-theme.json"
+            }
+        ]
+    }
+}
