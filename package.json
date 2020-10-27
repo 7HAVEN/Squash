@@ -1,0 +1,26 @@
+{
+    "name": "squash-theme",
+    "displayName": "SQuash Theme",
+    "description": "squash is an purple and orange accented vscode theme",0
+    "publisher": "7HAVEN",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/7HAVEN/Squash.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Squash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Squash-color-theme.json"
+            }
+        ]
+    }
+}
