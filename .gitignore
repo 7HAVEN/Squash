@@ -1,3 +1,2 @@
 node_modules
-.vscodeignore
-.vscode
+*.vsix
