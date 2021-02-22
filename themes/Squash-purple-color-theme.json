@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#272822",
-		
+		"activityBar.dropBackground": "#F39C12",
 		"activityBar.foreground": "#F39C12",
 		"activityBarBadge.foreground": "#f8f8f0",
 		"activityBarBadge.background": "#F39C12",
@@ -28,7 +28,7 @@
 		"editorGroupHeader.tabsBackground": "#181A1F",
 		"editorIndentGuide.background": "#6B717D",
 		
-		//check line num
+	
 		"editorLineNumber.foreground": "#90908a",
 		"editorLineNumber.activeForeground": "#F39C12",
 		"editorWhitespace.foreground": "#3B4048",
@@ -44,9 +44,9 @@
 		"quickInput.foreground": "#f8f8f0",
 		"quickInputTitle.background": "#e74c3c",
 		"pickerGroup.foreground": "#f8f8f0",
-	// menu bar 
+
 		"menu.foreground": "#f4f4f4f1",
-		"menu.background": "#00c3ffb4",
+		"menu.background": "#6a00ffe3",
 	
 		"input.background": "#161416",
 		"input.border": "#10151a",
@@ -68,8 +68,8 @@
 		"peekViewTitleLabel.foreground": "#00e676",
 		"sideBar.background": "#272822",
 		"sideBarSectionHeader.background": "#21272e",
-		//status bar(bottom one )
-		"statusBar.background": "#00c3ff80",
+		
+		"statusBar.background": "#6AOOFF",
 		"statusBar.foreground": "#fff",
 		"statusBarItem.hoverBackground":"#F39C12",
 		"statusBar.noFolderBackground": "#6AOOFF",
