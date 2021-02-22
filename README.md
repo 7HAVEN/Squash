@@ -41,6 +41,6 @@ then just change your theme to squash and Enjoy 😉.
 ## ⬇ DOWNLOAD LINK 
 
 
-🔽 download here  : https://github.com/7HAVEN/Squash/blob/master/squash-theme-0.0.1.vsix
+🔽 download here  : https://github.com/7HAVEN/Squash/raw/master/squash-theme-0.0.1.vsix
 
 Thanks for using SQuash 🎉🎉.
