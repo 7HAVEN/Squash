@@ -8,15 +8,14 @@
 
 ## here are some screen shots of squash blue.
 
-[!squash1](https://github.com/7HAVEN/Squash/blob/master/images/blue1.png?raw=true)
 
-[!squash2](https://github.com/7HAVEN/Squash/blob/master/images/blue2.png)
+<img src="https://github.com/7HAVEN/Squash/blob/master/images/blue1.png">
+<img src="https://github.com/7HAVEN/Squash/blob/master/images/blue2.png">
 
 ## here are some screen shots of squash purple.
 
-[!squash3]("./https://github.com/7HAVEN/Squash/blob/master/images/purple1.png")
-
-[!squash4]("https://github.com/7HAVEN/Squash/blob/master/images/purple2.png")
+<img src = "https://github.com/7HAVEN/Squash/blob/master/images/purple1.png">
+<img src = "https://github.com/7HAVEN/Squash/blob/master/images/purple2.png">
 
 
 # installation 
