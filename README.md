@@ -1,8 +1,10 @@
-# SQuash Theme
+# <img src = "https://github.com/7HAVEN/Squash/blob/master/images/icons.png" width = "35" height = "30" >  SQuash Theme
 <img src = "https://github.com/7HAVEN/Squash/blob/master/images/icons.png" width = "250" height = "200" >
+
 ## A Purple-Orange 🍊🍊 accented Vscode theme for color lovers 💜💜 .. 
 
-## 
+squash has color and elegence all togther that makes syntax highlights and make your code look beautiful.
+ 
 
 # 📸 Screen shots 📸
 
