@@ -1,10 +1,10 @@
 # SQuash Theme
-  
-## A Purple-Orange 🍊🍊 accented Vscode theme for color lovers .. 
+<img src = "https://github.com/7HAVEN/Squash/blob/master/images/icons.png" width = "250" height = "200" >
+## A Purple-Orange 🍊🍊 accented Vscode theme for color lovers 💜💜 .. 
 
 ## 
 
-# Screen shots
+# 📸 Screen shots 📸
 
 ## here are some screen shots of squash blue.
 
@@ -18,7 +18,7 @@
 <img src = "https://github.com/7HAVEN/Squash/blob/master/images/purple2.png">
 
 
-# installation 
+# 💿 installation 
 
 just download the vsix file from the link below.
 
@@ -29,9 +29,9 @@ the type install from vsix and browse for the file and click install then your t
 then just change your theme to squash and Enjoy 😉.
 
 
-## DOWNLOAD LINK 
+## ⬇ DOWNLOAD LINK 
 
 
 download here  : https://github.com/7HAVEN/Squash/raw/master/Squash-theme-0.0.1.vsix
 
-Thanks for using SQuash
+Thanks for using SQuash 🎉🎉.
