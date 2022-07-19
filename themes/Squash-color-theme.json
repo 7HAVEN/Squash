@@ -46,7 +46,7 @@
 		"pickerGroup.foreground": "#f8f8f0",
 	// menu bar 
 		"menu.foreground": "#f4f4f4f1",
-		"menu.background": "#00c3ffb4",
+		"menu.background": "#00c3ffe3",
 	
 		"input.background": "#161416",
 		"input.border": "#10151a",
@@ -157,7 +157,7 @@
 			"support.function"
 		  ],
 		  "settings": {
-			"foreground": "#e74c3c"
+			"foreground": "#ff9524"
 		  }
 		},
 		{
@@ -178,7 +178,7 @@
 		  "name": "Keyword",
 		  "scope": ["keyword", "punctuation.definition.keyword"],
 		  "settings": {
-			"foreground": "#e74c3c"
+			"foreground": "#58fab9"
 		  }
 		},
 		{
